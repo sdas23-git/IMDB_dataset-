@@ -1,4 +1,19 @@
-IMDB dataset analysis using mysql->
+IMDB dataset data reading, data cleaning and data analysis using python ,numpy and pandas(dataset and files in the IMDB dataset(py&pd).rar) ->
+
+Few examples:
+![imdb-dataread](https://github.com/user-attachments/assets/815f8729-de59-499c-a2d1-00710b334f91)
+
+
+![imdb-dataclean](https://github.com/user-attachments/assets/91b9b317-c063-4897-bf6d-bc3fdc283ac6)
+
+
+![imdb-dataread](https://github.com/user-attachments/assets/5255166e-1339-4ec6-8831-a017873a3b2c)
+
+
+
+
+
+IMDB dataset analysis using mysql (dataset and files in the IMDB dataset(mySQL).rar)->
 Analyzing the IMDB dataset, performing CRUD operations and finding insights using mySQL.
 
 Few examples:
